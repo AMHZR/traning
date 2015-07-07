@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Team four
 
 Amit Kumar Singh
 Ashwin Sinha
 Anand Kumar Singh
 Medha Pareek
+=======
+Neeraj
+Navneet
+Rahul
+Himanshu
+>>>>>>> da58de232f273b58018f6aa26a3a6a5fad141e07
